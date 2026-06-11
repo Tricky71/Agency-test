@@ -1,6 +1,5 @@
 /bitrix/*
 /upload/*
-!/upload/1c_import
 /auth.php
 /cata_files/*
 /.config.php
