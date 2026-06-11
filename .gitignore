@@ -1,0 +1,13 @@
+/bitrix/*
+/upload/*
+/auth.php
+/cata_files/*
+/.config.php
+/local/php_interface/dbconn.php
+/local/cache/
+/local/managed_cache/
+*.log
+.DS_Store
+.htaccess
+favicon.ico
+404.php
