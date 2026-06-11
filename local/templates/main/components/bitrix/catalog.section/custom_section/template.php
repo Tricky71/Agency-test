@@ -23,7 +23,7 @@
             <p class="empty-text">Товары не найдены.</p>
         <?endif;?>
 </div>
-<?//php debug($arParams);?>
+
 <?if($arParams["DISPLAY_BOTTOM_PAGER"]):?>
     <?=$arResult["NAV_STRING"]?>
 <?endif?>
